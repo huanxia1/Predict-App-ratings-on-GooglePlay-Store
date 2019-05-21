@@ -16,7 +16,7 @@ Using Machine Learning to Predict App Ratings on GooglePlay Store.
 4. See more recommendations at the following links.
 
 ### Code:
-https://github.com/huanxia1/Springboard_Capstone_Project_1/blob/master/Predicting%20App%20rating%20on%20GooglePlay%20Store.ipynb
+https://github.com/huanxia1/Predict-App-ratings-on-GooglePlay-Store/blob/master/Predicting%20App%20rating%20on%20GooglePlay%20Store.ipynb
 
 ### Report:
 
