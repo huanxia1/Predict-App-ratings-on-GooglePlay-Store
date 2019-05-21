@@ -4,7 +4,9 @@ Smartphone apps are changing our lives and are gaining more and more attention f
 
 ### Approach:
 
-Data Wrangling, EDA, Multi-Regression Analysis, Sentiment Polarity and Subjectivity Analysis, Bootstrap Hypothesis Testing, Feature Engineering, Hypertuning Parameters, Machine Learning. 
+Data Wrangling, EDA, Multi-Regression Analysis, Sentiment Polarity and Subjectivity Analysis, Bootstrap Hypothesis Testing, Feature Engineering, Hypertuning Parameters.
+
+Using Machine Learning to Predict App Ratings on GooglePlay Store. 
 
 ### Conclusions:
 
