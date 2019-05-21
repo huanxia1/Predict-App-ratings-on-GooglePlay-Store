@@ -9,8 +9,8 @@ Data Wrangling, EDA, Multi-Regression Analysis, Sentiment Polarity and Subjectiv
 ### Conclusions:
 
 1. Randomforest classifier has the best prediction for App ratings, with >73% accuracy
-2. # of review, # of installs and the app size are the critical design features for a higher rating on GooglePlay Store
-3. # of review, # of installs and the app size are all positively correlated with ratings
+2. Number of review, installs and the app size are the critical design features for a higher rating on GooglePlay Store
+3. Number of review, installs and the app size are all positively correlated with ratings
 4. See more recommendations at the following links.
 
 ### Code:
